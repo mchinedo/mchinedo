@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Maryclare Chinedo</h1>
-<h3 align="center">A recent Brown University Graduate who is passionate about software development and learning new technologies!</h3>
+<h3 align="center">A recent Brown University Graduate who is passionate about software development!</h3>
 
 - 🔭 I’m currently working on **Grid Gallery App - Instagram Clone**
 
